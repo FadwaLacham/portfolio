@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.777463e9.chunk.css",
-    "main.js": "/portfolio/static/js/main.fdf8a1d1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.fdf8a1d1.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.6b8971b5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6b8971b5.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.591d2f6b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.591d2f6b.js.map",
     "static/css/2.b183c589.chunk.css": "/portfolio/static/css/2.b183c589.chunk.css",
@@ -61,7 +61,6 @@
     "static/media/eduPurple.b06b4e8e.svg": "/portfolio/static/media/eduPurple.b06b4e8e.svg",
     "static/media/eduRed.a44e7ceb.svg": "/portfolio/static/media/eduRed.a44e7ceb.svg",
     "static/media/eduYellow.8ad4464e.svg": "/portfolio/static/media/eduYellow.8ad4464e.svg",
-    "static/media/eight.055ac6c9.svg": "/portfolio/static/media/eight.055ac6c9.svg",
     "static/media/expBlack.bb06cbee.svg": "/portfolio/static/media/expBlack.bb06cbee.svg",
     "static/media/expBlue.fc91e37c.svg": "/portfolio/static/media/expBlue.fc91e37c.svg",
     "static/media/expGreen.16b06cc5.svg": "/portfolio/static/media/expGreen.16b06cc5.svg",
@@ -157,6 +156,6 @@
     "static/css/2.b183c589.chunk.css",
     "static/js/2.e9817edf.chunk.js",
     "static/css/main.777463e9.chunk.css",
-    "static/js/main.fdf8a1d1.chunk.js"
+    "static/js/main.6b8971b5.chunk.js"
   ]
 }
