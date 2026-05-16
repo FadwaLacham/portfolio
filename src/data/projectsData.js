@@ -5,6 +5,7 @@ import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
+import education from '../assets/png/education.png'
 
 
 
@@ -75,6 +76,15 @@ export const projectsData = [
         image: five
     },
 
+    {
+    id: 8,
+    projectName: 'Education Dashboard Morocco',
+    projectDesc: 'Interactive Power BI dashboard analyzing educational institutions in Morocco using open data. Includes data cleaning, transformation, modeling, and interactive visualizations with Power BI.',
+    tags: ['Power BI', 'Power Query', 'Open Data', 'Business Intelligence'],
+    code: 'https://github.com/FadwaLacham/powerbi-dashboard-education',
+    demo: 'https://app.powerbi.com/groups/me/reports/0d343fa7-bc6a-4ded-9be2-bd21384de02b/ReportSection?experience=power-bi',
+    image: education
+    },
 
 
 ]
