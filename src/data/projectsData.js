@@ -6,7 +6,7 @@ import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import education from '../assets/png/education.png'
-
+import aiEmailAgent from '../assets/png/ai-email-agent.png'
 
 
 export const projectsData = [
@@ -85,6 +85,26 @@ export const projectsData = [
     demo: 'https://app.powerbi.com/groups/me/reports/0d343fa7-bc6a-4ded-9be2-bd21384de02b/ReportSection?experience=power-bi',
     image: education
     },
+
+    {
+    id: 9,
+    projectName: 'AI Email Agent - Multi-Agent AI Email Management System',
+    projectDesc: 'An intelligent multi-agent AI system for Gmail email management. The application classifies, prioritizes, and automates email processing using LLM-based agents with memory and decision capabilities.',
+    tags: [
+        'Python',
+        'FastAPI',
+        'React',
+        'LLM',
+        'Llama 3',
+        'Gmail API',
+        'OAuth2',
+        'SQLite',
+        'SQLAlchemy'
+    ],
+    code: 'https://github.com/FadwaLacham/ai-email-agent',
+    demo: '',
+    image: aiEmailAgent
+   },
 
 
 ]
