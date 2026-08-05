@@ -89,17 +89,15 @@ export const projectsData = [
     {
     id: 9,
     projectName: 'AI Email Agent - Multi-Agent AI Email Management System',
-    projectDesc: 'An intelligent multi-agent AI system for Gmail email management. The application classifies, prioritizes, and automates email processing using LLM-based agents with memory and decision capabilities.',
+    projectDesc: 'The application classifies, prioritizes, and automates email processing using LLM-based agents with memory and decision capabilities.',
     tags: [
         'Python',
         'FastAPI',
         'React',
         'LLM',
-        'Llama 3',
         'Gmail API',
         'OAuth2',
-        'SQLite',
-        'SQLAlchemy'
+        'SQLite'
     ],
     code: 'https://github.com/FadwaLacham/ai-email-agent',
     demo: '',
