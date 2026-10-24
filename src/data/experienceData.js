@@ -1,7 +1,7 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Ministry of Tourism, Crafts and Social and Solidarity Economy - Tourism Department',
+        company: 'Ministry of Tourism, Crafts and Solidarity Economy - Tourism Department',
         jobtitle: 'Data Scientist Engineer - Data Project Management',
         startYear: 'Jun 2026',
         endYear: 'Present'
